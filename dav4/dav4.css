@@ -1,0 +1,252 @@
+
+@font-face {
+    font-family: "bold";
+    src: url(./Atkinson-Hyperlegible-Bold-102a.woff2);r
+    }
+
+@font-face {
+    font-family: "regular";
+    src: url(./Atkinson-Hyperlegible-Regular-102a.woff2);
+ }
+
+body{
+    background-color: #f3eee4;
+    height: 100vh;
+    margin: 0px;
+}
+
+.main{
+    margin: 70px;
+}
+
+.date{
+    margin-top: 2;
+}
+
+
+.qvesatauri{
+    line-height: 43px;
+    margin-bottom: 0px;
+}
+
+
+
+
+.challange{
+    font-size: 20px;
+}
+
+
+
+
+
+.surati{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+
+}
+
+.teqsti{
+    margin-right: 120px;
+}
+
+
+.sur{
+   
+    background-color: #f3eee4;
+    width: 350px;
+    height: 200px;
+
+
+}
+
+img{
+    border-radius: 10px;
+}
+
+
+h1 {
+    color: #1c2334;
+    font-family: "bold";
+}
+
+h2 {
+    color: #2b354d;
+    font-family: "regular";
+    font-size: 45px;
+    line-height: 30px;
+}
+
+.pirveli {
+
+    font-family: "bold";
+    color: #1c2334;
+    padding-bottom: 40px;
+    font-size: 65px;
+
+}
+
+.meore {
+    display: block;
+    font-family: "bold";
+}
+
+
+
+.daboloeba {
+    margin-top: 90px;
+    height: 500px;
+    width: 100%;
+    background-color: #e5bf55;
+   
+}
+
+
+.andy {
+    font-family: "bold";
+}
+
+.dabo1{ 
+    
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    padding-top: 45px;
+    
+}
+
+.dabo2{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.buttons{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+u{
+    text-decoration: underline #bb1450;
+    
+}
+
+.web{
+    display: flex;
+    justify-content: center;
+}
+
+
+.ertibut{
+    margin: 5px;
+}
+
+.oribut{
+    margin: 5px;
+}
+
+
+
+.but1{
+    
+    color: white;
+    background-color: #1c2334;
+    border: solid #f56ce9 0.8px;
+    border-radius: 25px;
+
+    font-size: 20px;
+    font-family: "bold";
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-right: 40px
+    
+    
+    }
+
+    .but2{
+
+        
+        border: solid #1c2334 2px;
+        border-radius: 25px;
+
+        background-color: #e5bf55;
+        color: #1c2334;
+
+      
+        font-size: 20px;
+        font-family: "bold";
+       
+        padding-top: 10px;
+        padding-left: 40px;
+        padding-bottom: 10px;
+        padding-right: 40px
+        
+       
+
+
+
+        }
+
+
+
+
+
+p{
+    color: #bb1450 ;
+    font-family: "regular";
+    font-size: 20px;
+    line-height: 0px;
+
+    
+}
+
+
+
+
+
+
+.spanebi{
+    background-color: #ffff99;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #1c2334;
+    font-size: 20px;
+    font-family: "bold";
+    
+}
+
+.span1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    
+}
+
+.span2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+span{
+    color: #1c2334;
+    
+    
+}
+
+
+.nsp{
+    color: #1c2334;
+    text-decoration: none;
+}
+
+.sp{
+    padding-left: 35px;
+    color: #1c2334;
+    text-decoration: none;
+}
